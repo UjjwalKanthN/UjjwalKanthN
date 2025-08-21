@@ -1,5 +1,7 @@
 <h1 align="center">Hi there 👋 I'm Ujjwal!</h1>
+
 <h3 align="left">💡 About Me</h3>
+
 - 👨‍🎓 Mechanical Engineering enthusiast with a focus on **Computational Fluid Dynamics (CFD)** and **Multi-Physics Modeling**.
 - 💻 Passionate about solving complex problems at the intersection of **CFD**, **ML**, and **scientific computing**.
 - 🧠 Currently exploring **ML applications in fluid mechanics**, including convection-diffusion studies and combustion modeling.
@@ -29,6 +31,7 @@
 </p>
 
 <h3 align="left">🤝 Connect with me here:</h3>
+
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">](https://www.linkedin.com/in/ujjwalkanthns/)  
 
 <h3 align="left">📊 My GitHub Stats</h3>
