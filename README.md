@@ -7,20 +7,19 @@
 - 🧠 Currently exploring **ML applications in fluid mechanics**, including convection-diffusion studies and combustion modeling.
 - 🚀 Contributor to open-source projects, with expertise in **OpenFOAM**, **PETSc**, and **Python-based scientific computing**.
 - ✍️ Developer of specialized tools like custom OpenFOAM solvers, GRI mechanism reduction, and 1D flame speed simulations.
-- 📬 Reach me at **saiujjwa@buffalo.edu** (Note: This is a placeholder; replace with your actual email).
-
+- 📬 Reach me at **saiujjwa@buffalo.edu**
+  
 <h3 align="left">⚙️ Tech Stack I Work With</h3>
 <p align="left">
-  <!-- Core Tools -->
+  <-- Core Tools -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" alt="matlab" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="jupyter" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-  <!-- CFD & Scientific Computing -->
+  <-- CFD & Scientific Computing -->
   <img src="https://www.openfoam.com/images/logo.png" alt="openfoam" width="40" height="40"/>
   <img src="https://www.ansys.com/-/media/project/ansys/corporate/ansys-com/brand/ansys-logo/ansys-logo-primary-rgb.png" alt="ansys" width="40" height="40"/>
   <img src="https://www.plm.automation.siemens.com/media/global/en/Simcenter-STAR-CCM-logo_tcm27-1464.png" alt="star-ccm" width="40" height="40"/>
