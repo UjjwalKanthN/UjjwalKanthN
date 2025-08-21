@@ -33,8 +33,8 @@
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">](https://www.linkedin.com/in/ujjwalkanthns/)  
 
-<h3 align="left">📊 My GitHub Stats</h3>
+<!--h3 align="left">📊 My GitHub Stats</h3>
 <p align="center">
-  <!--img src="https://github-readme-stats.vercel.app/api?username=UjjwalKanthN&show_icons=true&theme=radical" alt="GitHub Stats" /-->
+  <img src="https://github-readme-stats.vercel.app/api?username=UjjwalKanthN&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UjjwalKanthN&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+</p-->
